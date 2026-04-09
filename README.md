@@ -4,3 +4,4 @@
 2. 260312 다리 만들기2(백준) [링크](https://www.acmicpc.net/problem/17472)
 3. 260326 스카이라인 쉬운거(백준) [링크](https://www.acmicpc.net/problem/1863)
 4. 260402 나무자르기(백준) [링크](https://www.acmicpc.net/problem/2805)
+5. 260409 프로세서 연결하기(swea) [링크](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZwbnFs60gzHBIPa&contestProbId=AV4suNtaXFEDFAUf&probBoxId=AZ1ln9fqFNDHBIOM+&type=PROBLEM&problemBoxTitle=260408+%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B43&problemBoxCnt=++15+)
